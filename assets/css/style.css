@@ -1,0 +1,20 @@
+body{
+	background-image: url(https://www.ballinabeachvillage.com.au/wp-content/uploads/2012/02/gradient_bg.png);
+}
+
+.jumbotron{
+	margin-top: 10px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 20px;
+	background-image: eurostar-overview.jpg; 
+	align-items: center;
+}
+
+strong{
+	color: red;
+}
+
+th{
+	color: yellow;
+}
